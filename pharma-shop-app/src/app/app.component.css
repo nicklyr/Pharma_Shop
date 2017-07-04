@@ -1,0 +1,19 @@
+.navbar-inverse {
+    background-color: #F0F0F0 ;
+    border-color: #080808;
+}
+
+.navbar-inverse .navbar-brand{
+    color : black ;
+    font-family: poiret ;
+}
+
+.navbar-brand > img {
+    display: inline-block ;
+    width: 60px ;
+    height: 60px ;
+}
+
+.navbar{
+    min-height: 120px;
+}
